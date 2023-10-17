@@ -1,9 +1,6 @@
 {
-    "name": "quaeris-tv/doc_quaeris",
-    "description": "module quaeris docs",
-    "license": "MIT",
     "require": {
-        "tightenco/jigsaw": "^1.6",
+        "tightenco/jigsaw": "^1.7",
         "tightenco/jigsaw-docs-template": "^1.1",
         "samdark/sitemap": "^2.2.1"
     },
