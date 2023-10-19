@@ -2,7 +2,8 @@
 
 return [
     'Getting Started' => [
-        'url' => 'docs/getting-started',
+        // 'url' => 'docs/getting-started',
+        'url' => 'docs/quality-monitor',
         'children' => [
             'Customizing Your Site' => 'docs/customizing-your-site',
             'Navigation' => 'docs/navigation',
@@ -10,5 +11,5 @@ return [
             // 'Custom 404 Page' => 'docs/custom-404-page',
         ],
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    // 'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
 ];
