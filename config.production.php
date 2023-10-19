@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://quaeris-tv.github.io/doc_quaeris/',
+    'baseUrl' => 'https://quaeris-tv.github.io/doc_quaeris',
     'production' => true,
 
     // DocSearch credentials
