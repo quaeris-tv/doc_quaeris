@@ -1,3 +1,5 @@
+
+
 <?php $__env->startSection('body'); ?>
 <div class="flex flex-col items-center mt-32 text-gray-700">
     <h1 class="text-6xl font-light leading-none mb-2">404</h1>
@@ -12,4 +14,4 @@
 </div>
 <?php $__env->stopSection(); ?>
 
-<?php echo $__env->make('_layouts.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH F:\var\www\_bases\base_quaeris_fila3\laravel\Modules\Quaeris\docs/source\404.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('_layouts.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\var\www\quaerisf3\laravel\Modules\Quaeris\docs/source\404.blade.php ENDPATH**/ ?>
