@@ -1,0 +1,19 @@
+{
+    "name": "quaeris-tv/doc_quaeris",
+    "description": "Modulo Quaeris",
+    "homepage": "https://quaeris-tv.github.io/doc_quaeris/",
+    "authors": [
+
+    ],
+    "license": "MIT",
+    "require": {
+        "tightenco/jigsaw": "^1.7",
+        "tightenco/jigsaw-docs-template": "^1.1",
+        "samdark/sitemap": "^2.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\Listeners\\": "listeners/"
+        }
+    }
+}
