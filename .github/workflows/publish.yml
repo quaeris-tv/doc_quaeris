@@ -30,7 +30,7 @@ jobs:
       run: npm run prod
 
     - name: CNAME
-      run: echo "quaeris-tv.github.io/doc_quaeris" > ./build_production/CNAME
+      run: cd docs && echo "quaeris-tv.github.io/doc_quaeris" > ./build_production/CNAME
 
     - name: gh-pages
       uses: JamesIves/github-pages-deploy-action@v4.4.2
