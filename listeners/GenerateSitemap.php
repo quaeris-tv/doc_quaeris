@@ -11,7 +11,7 @@ class GenerateSitemap
     protected $exclude = [
         '/assets/*',
         '*/favicon.ico',
-        '*/404',
+        '*/404'
     ];
 
     public function handle(Jigsaw $jigsaw)
@@ -19,7 +19,11 @@ class GenerateSitemap
         $baseUrl = $jigsaw->getConfig('baseUrl');
 
         if (! $baseUrl) {
+<<<<<<< HEAD
             echo "\nTo generate a sitemap.xml file, please specify a 'baseUrl' in config.php.\n\n";
+=======
+            echo("\nTo generate a sitemap.xml file, please specify a 'baseUrl' in config.php.\n\n");
+>>>>>>> d28d06fbb86d8b75db16bd07dd2477ded44307e3
 
             return;
         }
@@ -31,7 +35,11 @@ class GenerateSitemap
                 return $this->isExcluded($path);
             })->each(function ($path) use ($baseUrl, $sitemap) {
                 $sitemap->addItem(rtrim($baseUrl, '/') . $path, time(), Sitemap::DAILY);
+<<<<<<< HEAD
             });
+=======
+        });
+>>>>>>> d28d06fbb86d8b75db16bd07dd2477ded44307e3
 
         $sitemap->write();
     }
