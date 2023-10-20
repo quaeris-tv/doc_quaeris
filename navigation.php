@@ -12,4 +12,9 @@ return [
         ],
     ],
     // 'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    'Funzionamento per Operatori Quaeris' => [
+        'children' => [
+            'Come loggarsi' => 'docs/how-to-log-in',
+        ],
+    ],
 ];
