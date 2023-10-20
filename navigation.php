@@ -12,9 +12,15 @@ return [
         // ],
     ],
     // 'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
-    'Funzionamento per Operatori Quaeris' => [
-        'children' => [
-            'Come loggarsi' => 'doc_quaeris/docs/how-to-log-in',
+    'Come loggarsi' => [
+        'url' => 'doc_quaeris/docs/how-to-log-in',
+    ],
+    'Customers' => [
+         'children' => [
+
         ],
+    ],
+    'Customers (elenco clienti)'=> [
+        'url' => 'doc_quaeris/docs/customers',
     ],
 ];
