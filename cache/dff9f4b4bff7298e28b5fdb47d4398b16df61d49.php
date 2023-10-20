@@ -32,11 +32,7 @@
         <?php endif; ?>
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-<<<<<<< HEAD
         <link rel="stylesheet" href="<?php echo e($page->baseUrl); ?>/<?php echo e(mix('css/main.css', 'assets/build')); ?>">
-=======
-        <link rel="stylesheet" href="<?php echo e(mix('css/main.css', 'assets/build')); ?>">
->>>>>>> d28d06fbb86d8b75db16bd07dd2477ded44307e3
 
         <?php if($page->docsearchApiKey && $page->docsearchIndexName): ?>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
@@ -68,11 +64,7 @@
             <?php echo $__env->yieldContent('body'); ?>
         </main>
 
-<<<<<<< HEAD
         <script src="<?php echo e($page->baseUrl); ?>/<?php echo e(mix('js/main.js', 'assets/build')); ?>"></script>
-=======
-        <script src="<?php echo e(mix('js/main.js', 'assets/build')); ?>"></script>
->>>>>>> d28d06fbb86d8b75db16bd07dd2477ded44307e3
 
         <?php echo $__env->yieldPushContent('scripts'); ?>
 
