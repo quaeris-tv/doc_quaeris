@@ -10,4 +10,9 @@ section: content
 Digitare nel browser il seguente url: https://manager2.quaerisofficina.it/admin
 Si verrà reindirizzati alla pagina di login
 
-![jigsaw logo](https://quaeris-tv.github.io/doc_quaeris/assets/images/jigsaw.png "jigsaw logo")
+![page login](https://quaeris-tv.github.io/doc_quaeris/assets/images/login_page.png "page login")
+
+Inserire email e password del proprio account e premere il tasto login.
+Si verrà reindirizzati su una pagina front end.
+
+![main dashboard](https://quaeris-tv.github.io/doc_quaeris/assets/images/main_dashboard.png "main dashboard")
