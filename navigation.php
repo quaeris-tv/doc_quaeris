@@ -15,11 +15,6 @@ return [
     'Come loggarsi' => [
         'url' => 'doc_quaeris/docs/how-to-log-in',
     ],
-    'Customers' => [
-         'children' => [
-
-        ],
-    ],
     'Customers (elenco clienti)'=> [
         'url' => 'doc_quaeris/docs/customers',
     ],
