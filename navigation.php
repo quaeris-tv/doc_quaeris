@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'Getting Started' => [
+    'Quality Monitor' => [
         // 'url' => 'docs/getting-started',
         'url' => 'doc_quaeris/docs/quality-monitor',
         'children' => [
