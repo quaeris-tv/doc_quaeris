@@ -7,7 +7,7 @@ section: content
 
 # Come Loggarsi {#how-to-log-in}
 
-Digitare nel browser il seguente url: https://manager2.quaerisofficina.it/admin
+Digitare nel browser il seguente url: [https://manager2.quaerisofficina.it/admin](https://manager2.quaerisofficina.it/admin)
 Si verrà reindirizzati alla pagina di login
 
 ![page login](https://quaeris-tv.github.io/doc_quaeris/assets/images/login_page.png "page login")
