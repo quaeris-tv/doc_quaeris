@@ -3,7 +3,7 @@
 return [
     'Getting Started' => [
         // 'url' => 'docs/getting-started',
-        'url' => 'docs/quality-monitor',
+        'url' => 'doc_quaeris/docs/quality-monitor',
         'children' => [
             'Customizing Your Site' => 'docs/customizing-your-site',
             'Navigation' => 'docs/navigation',
