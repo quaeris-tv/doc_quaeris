@@ -9,3 +9,5 @@ section: content
 
 Digitare nel browser il seguente url: https://manager2.quaerisofficina.it/admin
 Si verrà reindirizzati alla pagina di login
+
+![jigsaw logo](./assets/images/jigsaw.png "jigsaw logo")
