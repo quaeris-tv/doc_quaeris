@@ -16,6 +16,10 @@ return [
         'url' => 'doc_quaeris/docs/how-to-log-in',
     ],
     'Customers (elenco clienti)'=> [
-        'url' => 'doc_quaeris/docs/customers',
+        // 'url' => 'doc_quaeris/docs/select_customers',
+        'children' => [
+            'Selezione del Customer' => 'doc_quaeris/docs/select_customers',
+            'Creazione del Customer' => 'doc_quaeris/docs/create_customers',
+        ],
     ],
 ];

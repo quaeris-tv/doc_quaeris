@@ -1,11 +1,11 @@
 ---
-title: Customers
-description: Gestione Clienti
+title: Select Customers
+description: Selezine del customer
 extends: _layouts.documentation
 section: content
 ---
 
-# Customers {#customers}
+# Selezione Customers {#customers}
 
 Per gestire i clienti bisogna prima selezionare il cliente che si vuole gestire, attraverso la tendina che si visualizza cliccando l'icona in alto a destra
 
