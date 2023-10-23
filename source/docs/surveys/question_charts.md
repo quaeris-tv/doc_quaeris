@@ -46,4 +46,6 @@ altre impostazioni:
 • **plot_value_pos**: determina la posizione della visualizzazione dei dati nei grafici a barre, se dentro le barre o all’apice  
 
 Per verificare che tutte le impostazioni siano andate a buon fine, è possibile generare il singolo grafico dall’elenco delle domande, attraverso il bottone **regenerate**
-![Lista Domande](https://quaeris-tv.github.io/doc_quaeris/assets/images/index_question_charts.png "lista domande")
+![Lista Domande](https://quaeris-tv.github.io/doc_quaeris/assets/images/index_question_charts.png "lista domande")  
+esso visualizzerà un grafico tipo questo
+![Grafico Singolo](https://quaeris-tv.github.io/doc_quaeris/assets/images/single_chart.png "grafico singolo")  
