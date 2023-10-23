@@ -7,7 +7,7 @@ section: content
 
 # Creazione Customers {#create-customers}
 
-Per creare un nuovo customer, selezionare dal menu principare la voce **User**.  
+Per creare un nuovo customer, selezionare dal menu principare la voce **User** della dashboard principale
 ![main dashboard](https://quaeris-tv.github.io/doc_quaeris/assets/images/main_dashboard.png "main dashboard")  
 per visualizzare questa pagina  
 
