@@ -2,62 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/customers/create_customers</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/customers/select_customers</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/customers/associate_customers</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/custom-404-page</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/customizing-your-site</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/how-to-log-in</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/navigation</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/getting-started</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://quaeris-tv.github.io/doc_quaeris/docs/surveys/question_charts</loc>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/surveys/create_surveys</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/algolia-docsearch</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris/docs/quality-monitor</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
  <url>
   <loc>https://quaeris-tv.github.io/doc_quaeris</loc>
-  <lastmod>2023-10-23T14:14:08+00:00</lastmod>
+  <lastmod>2023-10-23T14:25:58+00:00</lastmod>
   <changefreq>daily</changefreq>
  </url>
 </urlset>
