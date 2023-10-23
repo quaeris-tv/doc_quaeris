@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="description" content="Configure Algolia DocSearch with the Jigsaw docs starter template">
+        <meta name="description" content="Creazione Questionario">
 
         <meta property="og:site_name" content="Docs Starter Template"/>
-        <meta property="og:title" content="Algolia DocSearch | Docs Starter Template"/>
-        <meta property="og:description" content="Configure Algolia DocSearch with the Jigsaw docs starter template"/>
-        <meta property="og:url" content="https://quaeris-tv.github.io/doc_quaeris/docs/algolia-docsearch"/>
+        <meta property="og:title" content="Create Surveys | Docs Starter Template"/>
+        <meta property="og:description" content="Creazione Questionario"/>
+        <meta property="og:url" content="https://quaeris-tv.github.io/doc_quaeris/docs/surveys/create_surveys"/>
         <meta property="og:image" content="https://quaeris-tv.github.io/doc_quaeris/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
 
@@ -17,7 +17,7 @@
         <meta name="twitter:card" content="summary_large_image">
 
         
-        <title>Docs Starter Template | Algolia DocSearch</title>
+        <title>Docs Starter Template | Create Surveys</title>
 
         <link rel="home" href="https://quaeris-tv.github.io/doc_quaeris">
         <link rel="icon" href="https://quaeris-tv.github.io/doc_quaeris/favicon.ico">
@@ -134,68 +134,25 @@
         </nav>
 
         <div class="DocSearch-content w-full lg:w-3/5 break-words pb-16 lg:pl-4" v-pre>
-            <h1 id="algolia-docsearch">Algolia DocSearch</h1>
+            <h1 id="create-surveys">Creazione Questionario</h1>
 
-<p>This starter template includes support for <a href="https://community.algolia.com/docsearch/">DocSearch</a>, a documentation indexing and search tool provided by Algolia for free. To configure this tool, you’ll need to sign up with Algolia and set your API Key and index name in <code>config.php</code>. Algolia will then crawl your documentation regularly, and index all your content.</p>
+<p>Dopo aver selezionato un customer attraverso il menu a tendina dell'icona in alto a destra,<br />
+è possibile gestire i suoi questionari.
+Per visualizzare l'elenco cliccare la voce <strong>Quaeris</strong> del menu a sinistra
+<img src="https://quaeris-tv.github.io/doc_quaeris/assets/images/main_dashboard.png" alt="main dashboard" title="main dashboard" /><br />
+<img src="https://quaeris-tv.github.io/doc_quaeris/assets/images/quaeris_dashboard.png" alt="Lista SurveyPdf" title="lista surveyPdf" />
+Per modificare un survey già esistente cliccare su <strong>Modifica</strong>.</p>
 
-<p><a href="https://community.algolia.com/docsearch/#join-docsearch-program">Get your DocSearch credentials here.</a></p>
+<p>Tramite il bottone in alto a destra <strong>Nuovo</strong> sarà possibile creare un nuovo survey che verrà automaticamente associato al customer corrente
+<img src="https://quaeris-tv.github.io/doc_quaeris/assets/images/create_surey.png" alt="new survey" title="create survey" /></p>
 
-<pre><code class="language-php">// config.php
-return [
-    'docsearchApiKey' =&gt; '',
-    'docsearchIndexName' =&gt; '',
-];
-</code></pre>
-
-<p>Once the <code>docsearchApiKey</code> and <code>docsearchIndexName</code> values are set in <code>config.php</code>, the search field at the top of the page is ready to use.</p>
-
-<p><img class="block m-auto" src="/assets/img/docsearch.png" alt="Screenshot of search results" /></p>
-
-<p>To help Algolia index your pages correctly, it's good practice to add a unique <code>id</code> or <code>name</code> attribute to each heading tag (<code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, etc.). By doing so, a user will be taken directly to the appropriate section of the page when they click a search result.</p>
-
-<hr />
-
-<h2 id="algolia-adding-custom-styles">Adding Custom Styles</h2>
-
-<p>If you'd like to customize the styling of the search results, Algolia exposes custom CSS classes that you can modify:</p>
-
-<pre><code class="language-css">/* Main dropdown wrapper */
-.algolia-autocomplete .ds-dropdown-menu {
-  width: 500px;
-}
-
-/* Main category (eg. Getting Started) */
-.algolia-autocomplete .algolia-docsearch-suggestion--category-header {
-  color: darkgray;
-  border: 1px solid gray;
-}
-
-/* Category (eg. Downloads) */
-.algolia-autocomplete .algolia-docsearch-suggestion--subcategory-column {
-  color: gray;
-}
-
-/* Title (eg. Bootstrap CDN) */
-.algolia-autocomplete .algolia-docsearch-suggestion--title {
-  font-weight: bold;
-  color: black;
-}
-
-/* Description description (eg. Bootstrap currently works...) */
-.algolia-autocomplete .algolia-docsearch-suggestion--text {
-  font-size: 0.8rem;
-  color: gray;
-}
-
-/* Highlighted text */
-.algolia-autocomplete .algolia-docsearch-suggestion--highlight {
-  color: blue;
-}
-</code></pre>
-
-<hr />
-
-<p>For more details, visit the <a href="https://community.algolia.com/docsearch/what-is-docsearch.html">official Algolia DocSearch documentation.</a></p>
+<p>I principali campi sono:<br />
+    • survey_id: selezionare dall’elenco di tutti i survey creati tramite il software limesurvey quello dedicato al customer.<br />
+    • allow_multiple_invite: selezionarlo se si intende inviare ad una stessa email o numero di cellulare, più di un invito a partecipare al survey.<br />
+    • name: nome di riferimento del questionario, che verrà visualizzato nell’intestazione del pdf.<br />
+    • pdf_view: tipologia di impaginazione del pdf, di solito si utilizza l’opzione “Domanda e risposta sulla stessa pagina”<br />
+    • logo: caricare il logo che verrà poi utilizzato nella email di invito e nel pdf.<br />
+    • chart_engine: libreria grafica per la generazione dei grafici, selezionare JP Chart.</p>
         </div>
     </div>
 </section>
