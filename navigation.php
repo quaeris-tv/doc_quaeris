@@ -23,4 +23,10 @@ return [
             'Associare un customer' => 'doc_quaeris/docs/customers/associate_customers',
         ],
     ],
+    'Surveys / Questionari'=> [
+        'url' => 'doc_quaeris/docs/surveys/create_surveys',
+        // 'children' => [
+        //     'Creazione di un Survey' => 'doc_quaeris/docs/surveys/create_surveys',
+        // ],
+    ],
 ];
