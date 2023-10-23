@@ -18,8 +18,9 @@ return [
     'Customers (elenco clienti)'=> [
         // 'url' => 'doc_quaeris/docs/select_customers',
         'children' => [
-            'Selezione del Customer' => 'doc_quaeris/docs/select_customers',
-            'Creazione del Customer' => 'doc_quaeris/docs/create_customers',
+            'Selezione del Customer' => 'doc_quaeris/docs/customers/select_customers',
+            'Creazione del Customer' => 'doc_quaeris/docs/customers/create_customers',
+            'Associare un customer' => 'doc_quaeris/docs/customers/associate_customers',
         ],
     ],
 ];

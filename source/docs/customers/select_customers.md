@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Selezione Customers {#customers}
+# Selezione Customers {#select-customers}
 
 Per gestire i clienti bisogna prima selezionare il cliente che si vuole gestire, attraverso la tendina che si visualizza cliccando l'icona in alto a destra
 

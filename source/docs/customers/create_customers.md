@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-# Creazione Customers {#customers}
+# Creazione Customers {#create-customers}
 
 Per creare un nuovo customer, selezionare dal menu principare la voce **User**.  
 ![main dashboard](https://quaeris-tv.github.io/doc_quaeris/assets/images/main_dashboard.png "main dashboard")  
