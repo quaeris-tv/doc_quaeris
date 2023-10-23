@@ -25,8 +25,8 @@ return [
     ],
     'Surveys / Questionari'=> [
         'url' => 'doc_quaeris/docs/surveys/create_surveys',
-        // 'children' => [
-        //     'Creazione di un Survey' => 'doc_quaeris/docs/surveys/create_surveys',
-        // ],
+        'children' => [
+            'Domande del questionario' => 'doc_quaeris/docs/surveys/question_charts',
+        ],
     ],
 ];
