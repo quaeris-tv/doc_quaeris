@@ -34,6 +34,6 @@ return [
         ],
     ],
     'Utente finale sondaggio' => [
-        'url' => 'doc_quaeris/docs/surveys/users/survey',
+        'url' => 'doc_quaeris/docs/users/survey',
     ],
 ];
