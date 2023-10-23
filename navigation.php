@@ -29,6 +29,7 @@ return [
             'Domande del questionario' => 'doc_quaeris/docs/surveys/question_charts',
             'Gestione Sms/Email' => 'doc_quaeris/docs/surveys/sms_email',
             'Contatti/Gestione degli inviti' => 'doc_quaeris/docs/surveys/contacts',
+            'Creazione token' => 'doc_quaeris/docs/surveys/create_tokens',
         ],
     ],
 ];
