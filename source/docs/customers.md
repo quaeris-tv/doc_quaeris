@@ -16,4 +16,4 @@ Verrà visualizzata la seguente pagina
 
 ![Lista SurveyPdf](https://quaeris-tv.github.io/doc_quaeris/assets/images/quaeris_dashboard.png "lista surveyPdf")
 
-che mostrerà un elenco di tutti i survey/sondaggi del customer/cliente selezionato.
+che mostrerà un elenco di tutti i survey/sondaggi del customer/cliente selezionatooooooooo.
