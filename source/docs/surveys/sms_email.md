@@ -19,6 +19,13 @@ che aprirà un modal dove inserire tutti i parametri necessari per creare un inv
 qui si potranno scegliere:  
     • **lang**: la lingua utilizzata per l’invito, generalmente sempre in italiano  
     • **type**: il tipo di invito, ci sono varie opzioni, ma scegliere sms o email  
+    • **post type**: selezionare survey_pdf  
+    • **post id**: lasciare vuoto, verrà valorizzato in automatico al salvataggio  
+    • **subject**: soggetto dell invito  
+    • **from**: mittente  
+    • **from email**: email mittente (in caso si stia creando una email, di solito sempre survey@quaerisofficina.it)  
+    • **logo src**: inserire il logo che verrà visualizzato nella email  
+    • **logo width/logo height**: larghezza/altezza in pixel dell'immagine logo caricata  
     • **body**: corpo del messaggio, utilizzato quando si vuole gestire un sms  
     • **body_html**: corpo della email, utilizzato quando si vuole gestire un email  
     • **theme**: scegliere l’opzione empty  
