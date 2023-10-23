@@ -30,6 +30,7 @@ return [
             'Gestione Sms/Email' => 'doc_quaeris/docs/surveys/sms_email',
             'Contatti/Gestione degli inviti' => 'doc_quaeris/docs/surveys/contacts',
             'Creazione token' => 'doc_quaeris/docs/surveys/create_tokens',
+            'Invio inviti' => 'doc_quaeris/docs/surveys/send_invitations',
         ],
     ],
 ];

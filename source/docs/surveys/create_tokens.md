@@ -20,5 +20,5 @@ Questa è la prima operazione che va ad aggiornare il database di limesurvey.
 Dopo aver fatto questa prima prova, è possibile generare i token, selezionando tutti i contatti cliccando sull’apposito tasto e dare conferma  
 ![Conferma creazione token](https://quaeris-tv.github.io/doc_quaeris/assets/images/confirm_create_token.png "conferma creazione token")  
 In base al numero di contatti, il tempo di creazione dei token può variare, in quanto le operazioni di creazione token verranno messi in coda.
-Questa operazione creerà nuovi record partecipanti nel software limesurvey.
+Questa operazione creerà nuovi record partecipanti nel software limesurvey.  
 **Suggerimento**: controllare che si siano creati tutti controllando l’ultimo record, dell’ultima pagina dell’indice dei contatti, che il campo “token” sia stato valorizzato, prima di inviare inviti.
