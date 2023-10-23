@@ -25,11 +25,12 @@ Per creare una domanda, che poi verrà visualizzata nel pdf, utilizzare bottone 
     • **min/max**: valore minimo e massimo delle asse Y per i grafici a barre verticali. Per i grafici relativi alla media l’impostazione massima è sempre 10, per gli altri grafici varia in base ai risultati
 
 ![Altre Impostazioni](https://quaeris-tv.github.io/doc_quaeris/assets/images/save_question_chart2.png "altre impostazioni") 
-altre impostazioni:
+altre impostazioni:  
     • **Type**: tipo di grafico che si vuole visualizzare, l’elenco è costituito da grafici singoli e grafici mixed (cioè costituiti da un mix di 3 grafici singoli)  
     • **group_by/sort_by**: raggruppamento temporale dei dati  
 
 **NB: quando si crea un nuovo survey tramite il software limesurvey, ricordarsi di settare l’impostazione che memorizza la data delle risposte, altrimenti non si potranno fare raggruppamenti temporali dei risultati.**  
+
     • **width/height**: altezza e larghezza del grafico sul pdf, generalmente 700x400 se si tratta di un singolo grafico e non di un mixed chart (che hanno già larghezza e altezza settata)  
     • **show_box**: se selezionato e il grafico utilizzato/selezionato è singolo, verrà visualizzato un box come cornice, generalmente questo settaggio è sempre non selezionato  
     • **font_family/font_style**: famiglia e stile dei testi visualizzati nel grafico, generalmente si lascia sempre FF_ARIAL e FS_BOLD  
@@ -45,3 +46,4 @@ altre impostazioni:
     • **plot_value_pos**: determina la posizione della visualizzazione dei dati nei grafici a barre, se dentro le barre o all’apice  
 
 Per verificare che tutte le impostazioni siano andate a buon fine, è possibile generare il singolo grafico dall’elenco delle domande, attraverso il bottone **regenerate**
+![Lista Domande](https://quaeris-tv.github.io/doc_quaeris/assets/images/index_question_charts.png "lista domande")
