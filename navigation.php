@@ -33,4 +33,7 @@ return [
             'Invio inviti' => 'doc_quaeris/docs/surveys/send_invitations',
         ],
     ],
+    'Utente finale sondaggio' => [
+        'url' => 'doc_quaeris/docs/surveys/users/survey',
+    ],
 ];

@@ -13,4 +13,5 @@ E’ possibile inviare singolarmente, il più delle volte per prova, un invito a
 ## Invio massivo degli inviti a tutti i contatti
 
 Selezionando tutti i contatti e cliccando sull’apposito bottone è possibile inviare inviti a tutti i contatti inseriti, confermando  
-![conferma invio](https://quaeris-tv.github.io/doc_quaeris/assets/images/confirm_send_invite.png "tasto conferma invio") 
+![conferma invio](https://quaeris-tv.github.io/doc_quaeris/assets/images/confirm_send_invite.png "tasto conferma invio")  
+I vari invii verranno messi in coda.
