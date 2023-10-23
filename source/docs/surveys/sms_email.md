@@ -29,3 +29,10 @@ qui si potranno scegliere:
     • **body**: corpo del messaggio, utilizzato quando si vuole gestire un sms  
     • **body_html**: corpo della email, utilizzato quando si vuole gestire un email  
     • **theme**: scegliere l’opzione empty  
+
+
+**NOTA BENE**:  
+- per creare l'url del questionario scrivere : **https://url_del_software_limesurvey/##survey_id##?token=##token##&lang=##lang##**
+- per creare l'url per non ricevere altri inviti : **https://url_del_software_limesurvey/optout/tokens/##survey_id##?token=##token##&langcode=##lang##**
+- se si crea un sms, il campo from deve avere massimo **11 caratteri**
+- per inserire il logo, scrivere **##logo##** nel punto interessato del body html
